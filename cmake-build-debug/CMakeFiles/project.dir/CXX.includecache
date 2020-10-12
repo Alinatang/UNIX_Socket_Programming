@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/qiaoqi/450/project/aws.cpp
+
+D:/qiaoqi/450/project/client.cpp
+
+D:/qiaoqi/450/project/main.cpp
+iostream
+-
+
+D:/qiaoqi/450/project/serverA.cpp
+
+D:/qiaoqi/450/project/serverB.cpp
+
